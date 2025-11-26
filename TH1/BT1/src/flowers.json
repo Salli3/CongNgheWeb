@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hoa Đỗ Quyên",
+        "description": "Hoa đỗ quyên vốn là loài hoa đại diện cho tình yêu đôi lứa hay tình nghĩa vợ chồng sắt son, chung thủy.",
+        "image": "../images/doquyen.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hoa Hải Đường",
+        "description": "Loài hoa kiêu sa rực rỡ với hương thơm thanh tao, từ lâu đã trở thành biểu tượng cho sự may mắn, tài lộc và vẻ đẹp thanh tao trong văn hóa Việt Nam.",
+        "image": "../images/haiduong.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hoa Mai",
+        "description": "Hoa mai có màu vàng rực rỡ, nở thành từng chùm, cánh hoa mềm mại và có thể mọc ở đầu cành.",
+        "image": "../images/mai.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Hoa Tường Vy",
+        "description": "Hoa tường vi có nhiều màu, tương ứng với mỗi màu là một ý nghĩa nhưng nhìn chung thì đều mang thông điệp liên quan đến tình yêu đôi lứa.",
+        "image": "../images/tuongvy.jpg"
+    }
+]
