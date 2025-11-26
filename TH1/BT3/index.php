@@ -1,6 +1,6 @@
 <?php
 // Đường dẫn file CSV
-$csvFile = __DIR__ . '/sinhvien.csv';
+$csvFile = __DIR__ . '/65HTTT_Danh_sach_diem_danh.csv';
 
 // Mở file
 if (!file_exists($csvFile)) {
